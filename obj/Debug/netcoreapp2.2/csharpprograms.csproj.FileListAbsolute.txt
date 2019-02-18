@@ -1,0 +1,11 @@
+/Users/anton/Documents/csharpprograms/bin/Debug/netcoreapp2.2/csharpprograms.deps.json
+/Users/anton/Documents/csharpprograms/bin/Debug/netcoreapp2.2/csharpprograms.runtimeconfig.json
+/Users/anton/Documents/csharpprograms/bin/Debug/netcoreapp2.2/csharpprograms.runtimeconfig.dev.json
+/Users/anton/Documents/csharpprograms/bin/Debug/netcoreapp2.2/csharpprograms.dll
+/Users/anton/Documents/csharpprograms/bin/Debug/netcoreapp2.2/csharpprograms.pdb
+/Users/anton/Documents/csharpprograms/obj/Debug/netcoreapp2.2/csharpprograms.csprojAssemblyReference.cache
+/Users/anton/Documents/csharpprograms/obj/Debug/netcoreapp2.2/csharpprograms.csproj.CoreCompileInputs.cache
+/Users/anton/Documents/csharpprograms/obj/Debug/netcoreapp2.2/csharpprograms.AssemblyInfoInputs.cache
+/Users/anton/Documents/csharpprograms/obj/Debug/netcoreapp2.2/csharpprograms.AssemblyInfo.cs
+/Users/anton/Documents/csharpprograms/obj/Debug/netcoreapp2.2/csharpprograms.dll
+/Users/anton/Documents/csharpprograms/obj/Debug/netcoreapp2.2/csharpprograms.pdb
